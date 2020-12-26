@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Test1f
+=======
+Test1
+Test 2
+>>>>>>> dev
